@@ -1,0 +1,10 @@
+C:\Users\Danilo\Desktop\MIEICS\MakeASCIIRandomString\MakeASCIIRandomString\obj\Debug\MakeASCIIRandomString.csprojResolveAssemblyReference.cache
+C:\Users\Danilo\Desktop\MIEICS\MakeASCIIRandomString\MakeASCIIRandomString\obj\Debug\MakeASCIIRandomString.Properties.Resources.resources
+C:\Users\Danilo\Desktop\MIEICS\MakeASCIIRandomString\MakeASCIIRandomString\obj\Debug\MakeASCIIRandomString.csproj.GenerateResource.Cache
+C:\Users\Danilo\Desktop\MIEICS\MakeASCIIRandomString\MakeASCIIRandomString\obj\Debug\MakeASCIIRandomString.csproj.CoreCompileInputs.cache
+C:\Users\Danilo\Desktop\MIEICS\MakeASCIIRandomString\MakeASCIIRandomString\bin\Debug\MakeASCIIRandomString.exe.config
+C:\Users\Danilo\Desktop\MIEICS\MakeASCIIRandomString\MakeASCIIRandomString\bin\Debug\MakeASCIIRandomString.exe
+C:\Users\Danilo\Desktop\MIEICS\MakeASCIIRandomString\MakeASCIIRandomString\bin\Debug\MakeASCIIRandomString.pdb
+C:\Users\Danilo\Desktop\MIEICS\MakeASCIIRandomString\MakeASCIIRandomString\obj\Debug\MakeASCIIRandomString.exe
+C:\Users\Danilo\Desktop\MIEICS\MakeASCIIRandomString\MakeASCIIRandomString\obj\Debug\MakeASCIIRandomString.pdb
+C:\Users\Danilo\Desktop\MIEICS\MakeASCIIRandomString\MakeASCIIRandomString\obj\Debug\MakeRandomString.TestApp.resources
