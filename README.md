@@ -20,39 +20,40 @@ Instantiate mars obj
 Single type Methods:
 -------------------------
 
-`LowerCaseLetters(int length)`                  Make a string only of lower case letters
-`UpperCaseLetters(int length)`                  Make a string only of upper case letters
-`Symbols(int length)`                           Make a string only of ASCII Symbols
-`Numbers(int length)`                           Make a string only of numbers
+`LowerCaseLetters(int length)`                  Make a string only of lower case letters<br/>
+`UpperCaseLetters(int length)`                  Make a string only of upper case letters<br/>
+`Symbols(int length)`                           Make a string only of ASCII Symbols<br/>
+`Numbers(int length)`                           Make a string only of numbers<br/>
 
 Mixed type Methods:
 ------------------------
 
-`MixLetters(int length)`                        Make a string of mixed lower case and upper case letters
-`MixNumbersAndSymbols(int length)`              Make a string mixing numbers and symbols
-`MixLowerCaseLettersAndSymbols(int length)`     Make a string mixing lower case letters and symbols
-`MixNumbersAndLowerCaseLetters(int length)`     Make a string mixing lower case letters and numbers
-`MixUpperCaseLettersAndSymbols(int length)`     Make a string mixing upper case letters and symbols
-`MixNumbersAndUpperCaseLetters(int length)`     Make a string mixing upper case letters and numbers
-`MixAllKindOfLettersAndSymbols(int length)`     Make a string mixing upper case, lower case letters and symbols
-`MixAllKindOfLettersAndNumbers(int length)`     Make a string mixing upper case, lower case letters and numbers
-`MixAll(int length)`                            Make a string of everything
+`MixLetters(int length)`                        Make a string of mixed lower case and upper case letters<br/>
+`MixNumbersAndSymbols(int length)`              Make a string mixing numbers and symbols<br/>
+`MixLowerCaseLettersAndSymbols(int length)`     Make a string mixing lower case letters and symbols<br/>
+`MixNumbersAndLowerCaseLetters(int length)`     Make a string mixing lower case letters and numbers<br/>
+`MixUpperCaseLettersAndSymbols(int length)`     Make a string mixing upper case letters and symbols<br/>
+`MixNumbersAndUpperCaseLetters(int length)`     Make a string mixing upper case letters and numbers<br/>
+`MixAllKindOfLettersAndSymbols(int length)`     Make a string mixing upper case, lower case letters and symbols<br/>
+`MixAllKindOfLettersAndNumbers(int length)`     Make a string mixing upper case, lower case letters and numbers<br/>
+`MixAll(int length)`                            Make a string of everything<br/>
 
 Patter type Methods:
 -------------------------
 
-`MixByPattern(string pattern)`                  Build your random mixed string
+`MixByPattern(string pattern)`                  Build your random mixed string<br/>
 
-l -> lower case letter
-u -> upper case letter
-n -> number
-s -> symbol
+l -> lower case letter<br/>
+u -> upper case letter<br/>
+n -> number<br/>
+s -> symbol<br/>
 
 *Example:*
 
-`MixByPattern(llusnlsn)` -> kjO$9g£8
+`MixByPattern(llusnlsn)` -> kjO$9g£8</br>
 
 ChangeLog:
+-------------
 
 **(a lot of time ago)**<br/>
 *Version: 1.0*<br/>
