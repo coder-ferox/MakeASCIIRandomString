@@ -62,6 +62,6 @@ Initial release based on a single method and a big switch (brrr)<br/>
 **2017/12/23**<br/>
 *Version: 2.0*<br/>
 Replaced the switch with lot of documented methods for the joy of Intellisense<br/>
-Added `MixByPattern` method
-Added `MixAllKindOfLettersAndNumbers` method
-Added "copy string" function in Test App
+Added `MixByPattern` method<br/>
+Added `MixAllKindOfLettersAndNumbers` method<br/>
+Added "copy string" function in Test App<br/>
