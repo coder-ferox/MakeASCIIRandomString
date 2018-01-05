@@ -38,7 +38,7 @@ Mixed type Methods:
 `MixAllKindOfLettersAndNumbers(int length)`     Make a string mixing upper case, lower case letters and numbers<br/>
 `MixAll(int length)`                            Make a string of everything<br/>
 
-Patter type Methods:
+Pattern type Methods:
 -------------------------
 
 `MixByPattern(string pattern)`                  Build your random mixed string<br/>
